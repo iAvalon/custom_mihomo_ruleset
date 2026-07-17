@@ -17,6 +17,7 @@ payload:
   - '+.browserleaks.com'
   - '+.browserleaks.net'
   - '+.browserleaks.org'
+  - '+.tty.mom'
   - ip.sb
   - ipwho.is
   - ip-api.com
