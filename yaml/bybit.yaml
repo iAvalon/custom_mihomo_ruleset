@@ -1,0 +1,23 @@
+# Bybit 官方域名与区域站点
++ .bybit.com
++ .bybit.eu
++ .bybit.is
++ .bybit.io
++ .bybit.nl
++ .bybit.sh
++ .bybit.club
++ .bybit.com.co
++ .bybitglobal.com
++ .bybitcorp.com
+
+# App 关键 API、香港特定路由与静态资源
++ .bybithk.whecloud.com
++ .byapps.net
++ .bycsi.com
++ .bytcapi.com
++ .bybstatic.com
++ .bituniverse.org
+
+# 关键字过滤
+bybit-exchange.github.io
+keyword:bybit
