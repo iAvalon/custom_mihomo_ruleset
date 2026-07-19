@@ -1,7 +1,5 @@
 payload:
   - '+.xn--9kqz23b19z.com'
-  - '+.ipapi.is'
-  - '+.ipify.org'
   - '+.linkcube.org'
   - '+.dns-dynamic.net'
   - '+.selinux.link'
@@ -14,10 +12,3 @@ payload:
   - '+.jkun.waimaosass.icu'
   - '+.link123.52pokemon99.cc'
   - '+.liangxin.xyz'
-  - '+.browserleaks.com'
-  - '+.browserleaks.net'
-  - '+.browserleaks.org'
-  - '+.tty.mom'
-  - ip.sb
-  - ipwho.is
-  - ip-api.com
