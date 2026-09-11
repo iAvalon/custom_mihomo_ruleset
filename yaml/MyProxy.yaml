@@ -25,3 +25,4 @@ payload:
   - '+.browserleaks.com'
   - '+.browserleaks.net'
   - '+.browserleaks.org'
+  - 'IP-CIDR6,2604:a880:800:10::e6:b001/128,no-resolve'
