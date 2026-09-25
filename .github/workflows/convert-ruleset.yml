@@ -9,7 +9,7 @@ on:
       - 'yaml/**'  # 当yaml目录下的文件有变化时触发
 
 env:
-  MIHOMO_VERSION: "v1.19.15"
+  MIHOMO_VERSION: "v1.19.31"
 
 jobs:
   convert-ruleset:
