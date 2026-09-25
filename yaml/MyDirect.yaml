@@ -1,5 +1,6 @@
 payload:
   - '+.v6.gh-proxy.org'
+  - '+.v6.gh-proxy.com'
   - '+.api-linkcube.net'
   - '+.api-linkcube.dev'
   - '+.api.linkcube.dev'
